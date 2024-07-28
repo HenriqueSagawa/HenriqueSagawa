@@ -7,7 +7,7 @@
 ## Sobre mim
 - 📚 Estou cursando informática para web no Instituto Federal do Paraná.
 - 💡 Tenho interesse especial em desenvolvimento full-stack.
-- 🌱 Atualmente, estou aprendendo React
+- 🌱 Atualmente, estou aprendendo Next js
 
 Estou animado com a oportunidade de contribuir para a comunidade de desenvolvedores e continuar aprimorando minhas habilidades.
 
