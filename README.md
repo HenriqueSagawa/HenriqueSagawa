@@ -9,13 +9,11 @@
 
 - 🌱 Atualmente estou aprendendo **Next Js e Node Js**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [...](...)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [...](https://github.com/HenriqueSagawa?tab=repositories)
 
 - 💬 Pergunte-me sobre **React**
 
 - 📫 Como entrar em contato comigo **henriquetutomusagawa@gmail.com**
-
-- 📄 Conheça minhas experiências [...](...)
 
 - ⚡ Curiosidade **Procuro sempre ajudar meu colegas em eventuais dúvidas**
 
