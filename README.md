@@ -5,17 +5,15 @@
 
 <h3>Sobre mim</h3>
 
-- 🔭 Atualmente estou trabalhando em [IF Code](https://github.com/HenriqueSagawa/ifcode)
+- 🔭 Atualmente estou trabalhando em [DevLog](https://github.com/HenriqueSagawa/devlog)
 
-- 🌱 Atualmente estou aprendendo **Next Js e Node Js**
+- 🌱 Atualmente estou aprendendo **Node Js**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [...](https://github.com/HenriqueSagawa?tab=repositories)
 
 - 💬 Pergunte-me sobre **React**
 
 - 📫 Como entrar em contato comigo **henriquetutomusagawa@gmail.com**
-
-- ⚡ Curiosidade **Procuro sempre ajudar meu colegas em eventuais dúvidas**
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
