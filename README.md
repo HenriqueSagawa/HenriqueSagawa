@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Henrique Sagawa 👋
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UFPR
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full-Stack;Apaixonado+por+React+%26+Next.js;Construindo+APIs+com+Node.js+%F0%9F%9F%A2;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
