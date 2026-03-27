@@ -14,7 +14,7 @@
 
 ## 🚀 Sobre Mim
 
-- 🔭 Atualmente trabalhando em **[DevLog](https://github.com/HenriqueSagawa/devlog)** — um projeto de blog para desenvolvedores
+- 🔭 Atualmente trabalhando em **[GuitarHub](https://github.com/HenriqueSagawa/GuitarHub)** — um projeto de blog para desenvolvedores
 - 🌱 Aprendendo **Node.js** e aprofundando no ecossistema **back-end**
 - 💬 Me pergunte sobre **React**, **Next.js** ou **TypeScript**
 - 📫 Contato: **henriquetutomusagawa@gmail.com**
